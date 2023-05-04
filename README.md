@@ -4,12 +4,38 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/d069e0bc76122843ff4b/maintainability)](https://codeclimate.com/github/sapapck/frontend-project-44/maintainability)
 
- https://asciinema.org/a/IBdJEIefgYIhSyof92VLBiuoQ - brain-even
+# Description:
 
- https://asciinema.org/a/EfmuzvH4g1OdJtMe3DuQ1qn47 - brain-calc
+Welcome to my first project.  This repository consists of several arithmetic console games that reflect my skills gained in the Hexlet course.
+
+# Setup
+
+**For running the games do this actions:**
+1. Check the current updates for database with available packages: enter command line apt update
+2. Install Node.js package: enter command line apt install nodejs
+3. Upgrade Node.js to the latest version: enter command line apt upgrade nodejs
+4. To allow you to install modules and packages with Node.js: enter command line apt install npm
+5. Add and check depencies: enter command line make install
+6. Run games: enter command line *game name*
+
+### Asclinema for BRAIN-EVEN:
+
+ [![asciinema](https://asciinema.org/a/IBdJEIefgYIhSyof92VLBiuoQ)](https://asciinema.org/a/IBdJEIefgYIhSyof92VLBiuoQ) - brain-even
+
+### Asclinema for BRAIN-CALC:
+
+ [![asciinema](https://asciinema.org/a/EfmuzvH4g1OdJtMe3DuQ1qn47.svg)](https://asciinema.org/a/EfmuzvH4g1OdJtMe3DuQ1qn47) - brain-calc
+
+ ### Asclinema for BRAIN-GCD:
 
  https://asciinema.org/a/ECw9MBlcxO3X0zviJFY0whlFz - brain-gcd
 
+ ### Asclinema for BRAIN-PROGRESSION:
+
  https://asciinema.org/a/s6g7U24AWnh9IQ6gpPLOZToc6 - brain-progression
 
+ ### Asclinema for BRAIN-PRIME:
+
   https://asciinema.org/a/OvY6hrwB9rd807CmIgYclyoVd - brain-prime
+
+  
