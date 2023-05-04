@@ -16,11 +16,11 @@ Welcome to my first project.  This repository consists of several arithmetic con
 3. Upgrade Node.js to the latest version: enter command line apt upgrade nodejs
 4. To allow you to install modules and packages with Node.js: enter command line apt install npm
 5. Add and check depencies: enter command line make install
-6. Run games: enter command line *game name*
+6. Run games: enter command line *'game name'*
 
 ### Asclinema for BRAIN-EVEN:
 
- [![asciinema](https://asciinema.org/a/IBdJEIefgYIhSyof92VLBiuoQ)](https://asciinema.org/a/IBdJEIefgYIhSyof92VLBiuoQ) - brain-even
+ [![asciinema](https://asciinema.org/a/IBdJEIefgYIhSyof92VLBiuoQ.svg)](https://asciinema.org/a/IBdJEIefgYIhSyof92VLBiuoQ) - brain-even
 
 ### Asclinema for BRAIN-CALC:
 
@@ -28,14 +28,14 @@ Welcome to my first project.  This repository consists of several arithmetic con
 
  ### Asclinema for BRAIN-GCD:
 
- https://asciinema.org/a/ECw9MBlcxO3X0zviJFY0whlFz - brain-gcd
+ [![asciinema](https://asciinema.org/a/ECw9MBlcxO3X0zviJFY0whlFz.svg)](https://asciinema.org/a/ECw9MBlcxO3X0zviJFY0whlFz) - brain-gcd
 
  ### Asclinema for BRAIN-PROGRESSION:
 
- https://asciinema.org/a/s6g7U24AWnh9IQ6gpPLOZToc6 - brain-progression
+ [![asciinema](https://asciinema.org/a/s6g7U24AWnh9IQ6gpPLOZToc6.svg)](https://asciinema.org/a/s6g7U24AWnh9IQ6gpPLOZToc6) - brain-progression
 
  ### Asclinema for BRAIN-PRIME:
 
-  https://asciinema.org/a/OvY6hrwB9rd807CmIgYclyoVd - brain-prime
+  [![asciinema](https://asciinema.org/a/OvY6hrwB9rd807CmIgYclyoVd.svg)](https://asciinema.org/a/OvY6hrwB9rd807CmIgYclyoVd) - brain-prime
 
   
