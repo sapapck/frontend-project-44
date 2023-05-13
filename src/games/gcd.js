@@ -10,7 +10,7 @@ const getGcd = (a, b) => {
   return getGcd(b, a % b);
 };
 
-const randomNum = () => {
+const getQuestionAndAnswer = () => {
   const num1 = getRandomData(1, 50);
   const num2 = getRandomData(1, 50);
   const question = `${num1} ${num2}`;
@@ -18,5 +18,5 @@ const randomNum = () => {
   return [question, correctAnswer];
 };
 
-const gameGcd = () => gameArchitecture(rules, randomNum);
+const gameGcd = () => gameArchitecture(rules, getQuestionAndAnswer);
 export default gameGcd;
