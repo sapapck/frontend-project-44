@@ -12,13 +12,13 @@ const isPrime = (num) => {
   return true;
 };
 
-const generateNum = () => {
+const getQuestionAndAnswer = () => {
   const number = getRandomData(1, 100);
   const question = `${number}`;
   const correctAnswer = isPrime(number) ? 'yes' : 'no';
   return [question, correctAnswer];
 };
 
-const primeGame = () => gameArchitecture(rule, generateNum);
+const primeGame = () => gameArchitecture(rule, getQuestionAndAnswer);
 
 export default primeGame;
