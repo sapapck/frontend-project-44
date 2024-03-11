@@ -4,6 +4,7 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/d069e0bc76122843ff4b/maintainability)](https://codeclimate.com/github/sapapck/frontend-project-44/maintainability)
 
+# Brain Games
 # Description:
 
 Welcome to my first project.  This repository consists of several arithmetic console games that reflect my skills gained in the Hexlet course.
